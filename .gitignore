@@ -1,0 +1,4 @@
+__pycache__/
+opportunities.csv
+*.pyc
+load_test.txt
